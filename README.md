@@ -1,7 +1,13 @@
 PanaPIR
 =======
 
-Panasonic PIR breakout board
+Panasonic PIR breakout board.
+
+![Panasonic PIR breakout board](pictures/panapir.png)
+
+Verified with:
+
+* EKMB13031112
 
 ## Licensing
 

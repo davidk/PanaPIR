@@ -9,6 +9,7 @@ Here is what it looks like currently:
 This board has been verified using the following PIR sensor(s):
 
 * EKMB1303112 - [Mouser](http://www.mouser.com/Search/Refine.aspx?Keyword=EKMB1303112)
+* EKMC1601111 - [Digikey](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=EKMC1601111) (The pinout is simliar to the EKMB1303112, but the pins seem a bit closer together. Fits fairly well slightly stretched apart).
 
 ## Board notes
 

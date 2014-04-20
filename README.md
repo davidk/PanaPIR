@@ -1,6 +1,6 @@
 # Panasonic PIR breakout board
 
-This is a Panasonic PIR breakout board. It breaks out the sensor onto 0.1"/2.54mm pitch headers, for use with a solderless breadboard. This breakout is still in development -- while it is usable at the moment, work needs to be done to perfect a few minor issues.
+This is a Panasonic PIR breakout board. It breaks out the sensor onto 0.1"/2.54mm pitch headers, for use with a solderless breadboard.
 
 Here is what it looks like currently:
  

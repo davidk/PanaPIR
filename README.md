@@ -6,17 +6,15 @@ Here is what it looks like (the current version is slightly different, with prop
  
 ![Panasonic PIR breakout board](pictures/panapir.png)
 
-This board has been verified using the following PIR sensor(s):
-
 ## Board notes
 
-* The \* on the front and back of the board denote the ground pin of the sensor. On the EKMB1303112, this is indicated by a filled-in gold area around the pin.
+* The \* on the front and back of the board denote the ground pin of the sensor. On the EKMB1303112 and EKMC1601111, this is indicated by a filled-in gold area around the pin.
 
 ## Fabrication
 
 First, you'll need to get these made. The simplest way is to just [click through to this shared project on OSHPark's site](http://oshpark.com/shared_projects/VIIMKRcy). You'll get three boards with purple soldermask.
 
-If you prefer using your own CNC/mill/board house, just grab the Gerber files and KiCAD source and bobs (nearly) your uncle.
+If you prefer using your own CNC/mill/board house, just grab the Gerber files and KiCAD source and bobs (nearly) your uncle. If you really are going to use a CNC/mill/etch, it might be ideal to drop a polygon fill on both sides to minimize the amount of copper that needs to be removed.
 
 ### Bill of Materials
 

@@ -27,11 +27,12 @@ Pick a sensor (these have been verified to fit on this breakout):
 | EKMB1303112 | [Mouser](http://www.mouser.com/Search/Refine.aspx?Keyword=EKMB1303112) |
 | EKMC1601111 | [Digikey](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=EKMC1601111) |
 
-You'll also need a strip of 0.1"/2.54mm headers, but these are optional (since you may use wire to permanently 
-install the breakout later)..
+You'll also need a strip of 0.1"/2.54mm header, but this is optional (since you may use wire to permanently 
+install the breakout later).
+
 | Quantity | Description/Vendor |
 | -------- | ------------------ |
-| 1        | 3 pin breakaway header | 36-pin header: [Mouser: 649-68004-236](http://www.mouser.com/Search/Refine.aspx?Keyword=649-68004-236) / Alternative (3-pin, untested!): [Mouser: 571-1031853](http://www.mouser.com/Search/Refine.aspx?Keyword=571-1031853) |
+| 1        | 36-pin header: [Mouser: 649-68004-236](http://www.mouser.com/Search/Refine.aspx?Keyword=649-68004-236) / Alternative (3-pin, untested!): [Mouser: 571-1031853](http://www.mouser.com/Search/Refine.aspx?Keyword=571-1031853) |
 
 ## Licensing
 

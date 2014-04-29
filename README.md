@@ -5,9 +5,11 @@ This is a Panasonic PIR breakout board. It breaks out the sensor onto 0.1"/2.54m
 Here is what it looks like currently:
 
 Top (alongside the EKMC1601111):
+
 ![Panasonic PIR breakout board - top](pictures/top_side_white_pir.png)
 
-Rear:
+Rear (note the filled in gold area on one pin of the PIR, it goes with the \* on the board and denotes ground):
+
 ![Panasonic PIR breakout board - bottom](pictures/back_side_white_pir_bottom.png)
 
 ## Board notes

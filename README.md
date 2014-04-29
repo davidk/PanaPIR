@@ -4,7 +4,8 @@ This is a Panasonic PIR breakout board. It breaks out the sensor onto 0.1"/2.54m
 
 Here is what it looks like (the current version is slightly different, with proper spacing for solderless breadboarding and space for a small 0603 [imperial] decoupling capacitor):
  
-![Panasonic PIR breakout board](pictures/panapir.png)
+![Panasonic PIR breakout board - top](pictures/top_side_white_pir.png)
+![Panasonic PIR breakout board - bottom](pictures/back_side_white_pir_bottom.png)
 
 ## Board notes
 

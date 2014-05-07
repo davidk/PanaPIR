@@ -1,6 +1,6 @@
 # Panasonic PIR breakout board
 
-This is a Panasonic PIR breakout board. It breaks out the sensor onto 0.1"/2.54mm pitch headers, for use with a solderless breadboard.
+This is a Panasonic PIR breakout board. It breaks out their TO-5 sensors onto 0.1"/2.54mm pitch headers, for use with a solderless breadboard.
 
 Here is what it looks like currently:
 
@@ -18,7 +18,7 @@ Rear (note the filled in gold area on one pin of the PIR, it goes with the \* on
 
 ## Fabrication
 
-First, you'll need to get these made. The simplest way is to just [click through to this shared project on OSHPark's site](http://oshpark.com/shared_projects/VIIMKRcy). You'll get three boards with purple soldermask.
+The simplest way is to just [click through to this shared project on OSHPark's site](http://oshpark.com/shared_projects/VIIMKRcy). You'll get three boards with purple soldermask.
 
 If you prefer using your own CNC/mill/board house, just grab the Gerber files and KiCAD source and bobs (nearly) your uncle. If you really are going to use a CNC/mill/etch, it might be ideal to drop a polygon fill on both sides to minimize the amount of copper that needs to be removed.
 

@@ -12,10 +12,6 @@ Rear (note the filled in gold area on one pin of the PIR, it goes with the \* on
 
 ![Panasonic PIR breakout board - bottom](pictures/back_side_white_pir_bottom.png)
 
-## Board notes
-
-* The \* on the front and back of the board denote the ground pin of the sensor. On the EKMB1303112 and EKMC1601111, this is indicated by a filled-in gold area around the pin.
-
 ## Fabrication
 
 The simplest way is to just [click through to this shared project on OSHPark's site](http://oshpark.com/shared_projects/VIIMKRcy). You'll get three boards with purple soldermask.
